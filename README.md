@@ -9,7 +9,6 @@ This is a customizable React application designed for developers to present thei
 ## Features
 
 - **Customizable Layout**: The layout of the resume can be easily customized to suit individual preferences and showcase personal information effectively.
-- **Responsive Design**: The application is designed to adapt to various screen sizes, ensuring optimal viewing experience across devices.
 - **Fork and Use**: Developers can fork this repository and use it as a template to create their own personalized resume application.
 
 ## Getting Started
