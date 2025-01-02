@@ -25,6 +25,9 @@ To get started with this React Resume App, follow these steps:
 
 The main file for customizing the layout of your resume is `App.tsx`. This file contains JSX code that structures the layout of your resume. You can modify the layout by editing this file according to your preferences.
 
+
+
+
 ```tsx
 <div
   style={{
