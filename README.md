@@ -16,12 +16,6 @@ This is a customizable React application designed for developers to present thei
 
 
 
-
-
-
-
-
-
 To get started with this React Resume App, follow these steps:
 
 1. **Fork the Repository**: Fork this repository to your GitHub account.
