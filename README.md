@@ -60,3 +60,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 You can further customize and expand this README according to your preferences and additional features of your app.
+
+
+this is new update that just add some text to this file
